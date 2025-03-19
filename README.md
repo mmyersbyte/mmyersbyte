@@ -1,5 +1,5 @@
-<h1 align="center">![Pedro Victor(https://img.shields.io/badge/Pedro%20Victor-6A0DAD?style=for-the-badge&logo=person&logoColor=white) ![🌱](https://img.shields.io/badge/🌱-32CD32?style=for-the-badge&logo=tree&logoColor=white)</h1>
-<img src="https://media.giphy.com/media/J1F3j4p4I9dJdvIxgU/giphy.gif" width="200">
+![Pedro Victor(https://img.shields.io/badge/Pedro%20Victor-6A0DAD?style=for-the-badge&logo=person&logoColor=white) ![🌱](https://img.shields.io/badge/🌱-32CD32?style=for-the-badge&logo=tree&logoColor=white)
+<img src="https://media1.tenor.com/m/2LbKTiE-6tYAAAAC/michael-myers-halloween.gif" width="50%">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
