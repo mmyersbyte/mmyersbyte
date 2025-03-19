@@ -12,7 +12,3 @@
   <img src="https://media1.tenor.com/m/2LbKTiE-6tYAAAAC/michael-myers-halloween.gifL" alt="GIF" width="400">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmyersbyte&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
-
