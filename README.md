@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://img.shields.io/badge/Pedro%20Victor-6A0DAD?style=for-the-badge&logo=person&logoColor=white" alt="Pedro Victor"> <img src="https://img.shields.io/badge/🌱-32CD32?style=for-the-badge&logo=tree&logoColor=white" alt="🌱"> </p><p align="center">
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Pedro%20Victor-6A0DAD?style=for-the-badge&logo=person&logoColor=white" alt="Pedro Victor"> 
+  <img src="https://img.shields.io/badge/Linux-Tux-000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"> 
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT">
   <img src="https://img.shields.io/badge/NODE-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE">
@@ -8,6 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/2LbKTiE-6tYAAAAC/michael-myers-halloween.gifL" alt="GIF" width="400">
+  <img src="https://media1.tenor.com/m/2LbKTiE-6tYAAAAC/michael-myers-halloween.gif" alt="GIF" width="400">
 </p>
-
