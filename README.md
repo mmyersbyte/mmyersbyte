@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Pedro%20Victor-6A0DAD?style=for-the-badge&logo=person&logoColor=white" alt="Pedro Victor"> 
+  <img src="https://img.shields.io/badge/Pedro%20Victor-800020?style=for-the-badge&logo=person&logoColor=white" alt="Pedro Victor"> 
   <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=linux&logoColor=white" alt="Pinguim Linux"> 
 </p>
 
