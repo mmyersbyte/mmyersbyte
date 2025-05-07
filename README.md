@@ -5,8 +5,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT">
   <img src="https://img.shields.io/badge/NODE-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE">
   <img src="https://img.shields.io/badge/EXPRESS.JS-FF6F61?style=for-the-badge&logo=express&logoColor=white" alt="EXPRESS.JS">
+  <img src="https://img.shields.io/badge/FASTIFY-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="FASTIFY">
   <img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="REACT NATIVE">
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
