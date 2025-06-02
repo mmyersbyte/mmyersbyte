@@ -21,5 +21,11 @@
 </div>
 
 <p align="center">
+  Backend-first developer.  
+  Simple solutions. Clean code. Real-world focus.
+</p>
+
+
+<p align="center">
   <img src="https://media1.tenor.com/m/2LbKTiE-6tYAAAAC/michael-myers-halloween.gif" alt="GIF" width="400">
 </p>
