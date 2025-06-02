@@ -27,5 +27,5 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/2LbKTiE-6tYAAAAC/michael-myers-halloween.gif" alt="GIF" width="400">
+  <img src="gitreadme.png" alt="GIF" width="400">
 </p>
