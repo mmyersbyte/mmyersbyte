@@ -22,7 +22,6 @@
 
 <p align="center">
   Backend-first developer.  
-  Simple solutions. Clean code. Real-world focus.
 </p>
 
 
