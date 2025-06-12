@@ -13,7 +13,6 @@
   <br>
 
   <!-- Linha 2 -->
-  <img src="https://img.shields.io/badge/FASTIFY-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="FASTIFY">
   <img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="REACT NATIVE">
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
