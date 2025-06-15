@@ -23,6 +23,3 @@
 </p>
 
 
-<p align="center">
-  <img src="gitreadme.png" alt="GIF" width="400">
-</p>
