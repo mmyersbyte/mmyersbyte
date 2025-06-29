@@ -21,6 +21,3 @@
 <p align="center">
   Backend-first developer.  
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terminal.svg" alt="Terminal" width="70" />
-</p>
