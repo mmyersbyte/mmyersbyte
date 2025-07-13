@@ -20,7 +20,7 @@
   </div>
 
   <div>
-    <img src="./clean-code.png" alt="Clean Code" width="400" />
+    <img src="./mmy.png" alt="Clean Code" width="400" />
   </div>
 
 </div>
